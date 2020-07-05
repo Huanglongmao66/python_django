@@ -1,20 +1,7 @@
-from django.http import HttpRespon
+from django.http import HttpResponse
 
 
-
-Bdasdfsadadadasijllkjiljlkijlsafjiewfjw efjwe jfiajf
-D
-A
-C
-D
-A
-C
-D
-C
-D
-C
-D
-D
-C
-def index(request)
+  def index(request):
+    return HttpResponse('ok')
+  
 
